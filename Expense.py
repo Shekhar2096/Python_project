@@ -195,4 +195,5 @@ while not  Total_Percent_Flag:
         print("Please enter Y or N")
         continue
 
+print("its done")
 
