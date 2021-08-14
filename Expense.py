@@ -1,4 +1,3 @@
-
 YourIncome =float(input("Enter your Income: "))
 
 MarriedFlag= False
